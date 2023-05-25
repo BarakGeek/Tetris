@@ -1,6 +1,5 @@
 # Tetris
-Python program that play Tetris
+Python code for AI that able to play Tetris at lightning-fast speeds.
 
 
-https://github.com/BarakGeek/Tetris/assets/108723711/50a84bad-b0cc-46f3-a43e-e02ba2a5b740
-
+https://github.com/BarakGeek/Tetris/assets/108723711/cd9187b0-b79a-4a50-bb80-f1d43c8b886c
